@@ -19,6 +19,11 @@ I build AI-powered applications and the infrastructure to run them. Currently co
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 **AI & ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -51,10 +56,9 @@ I build AI-powered applications and the infrastructure to run them. Currently co
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VladimirLi&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirLi&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
+[![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirLi&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/VladimirLi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirLi&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/VladimirLi)
 
 ## 📫 Contact
 

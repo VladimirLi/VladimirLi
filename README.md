@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/bfc8b3ce-9446-45fa-8a8e-3a53b9b5ae78/thumbnail" >
+</p>
+
+
 <!--
 **VladimirLi/VladimirLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

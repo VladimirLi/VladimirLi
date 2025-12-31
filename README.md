@@ -10,7 +10,6 @@ I build AI-powered applications and the infrastructure to run them. Currently co
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend & Mobile**
@@ -56,9 +55,9 @@ I build AI-powered applications and the infrastructure to run them. Currently co
 
 ## 📊 GitHub Stats
 
-[![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirLi&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/VladimirLi)
+[![Vladimir's GitHub stats](https://github-readme-stats-gilt-rho-45.vercel.app/api?username=VladimirLi&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/VladimirLi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirLi&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/VladimirLi)
+[![Top Langs](https://github-readme-stats-gilt-rho-45.vercel.app/api/top-langs/?username=VladimirLi&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/VladimirLi)
 
 ## 📫 Contact
 
